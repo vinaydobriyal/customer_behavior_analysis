@@ -74,7 +74,7 @@ Example:
 
 df.drop_duplicates(inplace=True)
 df.fillna(method='ffill', inplace=True)
-4. SQL Analysis
+# 4. SQL Analysis
 
 Imported the cleaned dataset into:
 
@@ -84,15 +84,9 @@ SQL Server
 
 Used SQL queries to extract business insights.
 
-Example:
+# 5. Power BI Dashboard
 
-SELECT region, SUM(sales) AS total_sales
-FROM sales_data
-GROUP BY region
-ORDER BY total_sales DESC;
-5. Power BI Dashboard
-
-# Created an interactive dashboard containing:
+## Created an interactive dashboard containing:
 
 KPI cards
 Sales trends
@@ -100,9 +94,7 @@ Regional performance
 Product analysis
 Customer insights
 
-# Dashboard allows stakeholders to explore data visually.
-
-Dashboard
+Dashboard allows stakeholders to explore data visually.
 
 Main dashboard features include:
 
@@ -114,7 +106,7 @@ Filters for dynamic exploration
 
 # Results
 
-Key outcomes from the analysis:
+## Key outcomes from the analysis:
 
 Identified top revenue regions
 Found best-selling products
