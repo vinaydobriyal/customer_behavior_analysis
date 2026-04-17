@@ -112,7 +112,7 @@ Region-wise performance
 Profit analysis
 Filters for dynamic exploration
 
-## Results
+# Results
 
 Key outcomes from the analysis:
 
@@ -124,7 +124,7 @@ Created a reusable analytics workflow
 
 This project demonstrates both technical and business analysis skills.
 
-## Report
+# Report
 
 A detailed report was created summarizing:
 
@@ -135,7 +135,7 @@ Recommendations
 
 The report supports business decision-making using data.
 
-## Presentation
+# Presentation
 
 A professional presentation was created using Gamma to communicate:
 
